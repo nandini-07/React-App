@@ -1,7 +1,7 @@
 Hi,
 
 This is a Responsive React Application created using HTML,CSS, JS and Bootstrap.
-Used Routers and Hooks in react JS.
+Used Routers for creating Single Page Application and Hooks in react JS.
 
 You can fill the details asked in the form and submit them the new data can be seen on the UI.
 
