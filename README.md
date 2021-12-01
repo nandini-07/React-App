@@ -1,3 +1,14 @@
+Hi,
+
+This is a Responsive React Application created using HTML,CSS, JS and Bootstrap.
+Used Routers and Hooks in react JS.
+
+You can fill the details asked in the form and submit them the new data can be seen on the UI.
+
+The focus of this app was React JS Library.
+
+Preview Link: https://nandini-07.github.io/myreact-project/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
