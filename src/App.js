@@ -31,7 +31,7 @@ function App() {
                   <li className="nav-item active">
                     <div>
                       <Link
-                        to="/React-App"
+                        to="/myreact-project"
                         className="nav-link"
                         className="navbar-brand"
                       >
@@ -67,7 +67,7 @@ function App() {
           </div>
           <Routes>
             <Route exact path="/" element={<Home />} />
-            <Route exact path="/React-App" element={<Home />} />
+            <Route path="/myreact-project" element={<Home />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/details" element={<DataForm />} />
           </Routes>
